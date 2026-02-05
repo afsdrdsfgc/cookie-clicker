@@ -1,0 +1,44 @@
+
+body {
+	background-image: url(https://media1.tenor.com/m/1GJDN1FzCI8AAAAd/tiger-drop-yakuza.gif) ;
+}
+
+h1 {
+	text-align: center;
+	animation: rainbow 1s infinite linear;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h2 {
+	text-align: center;
+	animation: rainbow 1s infinite linear;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+img {
+  display: block;
+  margin: auto;
+  width: 10%;
+}
+
+h4 {
+	text-align: center;
+	animation: rainbow 1s infinite linear;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+p{
+	text-align: center;
+	animation: rainbow 1s infinite linear;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+@keyframes rainbow {
+    0% { color: #ff0000; }
+    20% { color: #ff7f00; }
+    40% { color: #ffff00; }
+    60% { color: #00ff00; }
+    80% { color: #0000ff; }
+    100% { color: #8b00ff; }
+}
